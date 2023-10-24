@@ -1,0 +1,11 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kutucuk Seçme Oyunu\Kutucuk Seçme Oyunu\bin\Debug\Kutucuk Seçme Oyunu.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kutucuk Seçme Oyunu\Kutucuk Seçme Oyunu\bin\Debug\Kutucuk Seçme Oyunu.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kutucuk Seçme Oyunu\Kutucuk Seçme Oyunu\bin\Debug\Kutucuk Seçme Oyunu.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kutucuk Seçme Oyunu\Kutucuk Seçme Oyunu\obj\Debug\Kutucuk Seçme Oyunu.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kutucuk Seçme Oyunu\Kutucuk Seçme Oyunu\obj\Debug\Kutucuk Seçme Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kutucuk Seçme Oyunu\Kutucuk Seçme Oyunu\obj\Debug\Kutucuk_Seçme_Oyunu.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kutucuk Seçme Oyunu\Kutucuk Seçme Oyunu\obj\Debug\Kutucuk_Seçme_Oyunu.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kutucuk Seçme Oyunu\Kutucuk Seçme Oyunu\obj\Debug\Kutucuk Seçme Oyunu.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kutucuk Seçme Oyunu\Kutucuk Seçme Oyunu\obj\Debug\Kutucuk Seçme Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kutucuk Seçme Oyunu\Kutucuk Seçme Oyunu\obj\Debug\Kutucuk Seçme Oyunu.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kutucuk Seçme Oyunu\Kutucuk Seçme Oyunu\obj\Debug\Kutucuk Seçme Oyunu.pdb
